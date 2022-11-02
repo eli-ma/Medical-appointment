@@ -17,3 +17,6 @@
 
 Данные предоставлены Kaggle.com
 https://www.kaggle.com/datasets/joniarroba/noshowappointments
+
+Ссылка на проект Comet.com
+https://www.comet.com/eli-ma/medical-appointment/view/new/panels
